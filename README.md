@@ -18,10 +18,12 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<!-- Snake animation -->
 ---
 ![snake gif](https://github.com/PradeepPs04/PradeepPs04/blob/output/github-snake-dark.svg)  
 
-[![](https://visitcount.itsvg.in/api?id=PradeepPs04&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Profile view counter -->
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=PradeepPs04)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
